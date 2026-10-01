@@ -1,0 +1,42 @@
+=== HbS (sickle) c.20A>T (p.E7V, missense) ===
+target            0 MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK
+                  0 ||||||.|||||||||||||||||||||||||||||||||||||||||||||||||||||
+query             0 MVHLTPVEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK
+
+target           60 VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG
+                 60 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query            60 VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG
+
+target          120 KEFTPPVQAAYQKVVAGVANALAHKYH 147
+                120 ||||||||||||||||||||||||||| 147
+query           120 KEFTPPVQAAYQKVVAGVANALAHKYH 147
+
+
+=== HbC c.19G>A (p.E7K, missense) ===
+target            0 MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK
+                  0 ||||||.|||||||||||||||||||||||||||||||||||||||||||||||||||||
+query             0 MVHLTPKEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK
+
+target           60 VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG
+                 60 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query            60 VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG
+
+target          120 KEFTPPVQAAYQKVVAGVANALAHKYH 147
+                120 ||||||||||||||||||||||||||| 147
+query           120 KEFTPPVQAAYQKVVAGVANALAHKYH 147
+
+
+=== HbE c.79G>A (p.E27K, missense) ===
+target            0 MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK
+                  0 ||||||||||||||||||||||||||.|||||||||||||||||||||||||||||||||
+query             0 MVHLTPEEKSAVTALWGKVNVDEVGGKALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK
+
+target           60 VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG
+                 60 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query            60 VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFG
+
+target          120 KEFTPPVQAAYQKVVAGVANALAHKYH 147
+                120 ||||||||||||||||||||||||||| 147
+query           120 KEFTPPVQAAYQKVVAGVANALAHKYH 147
+
+

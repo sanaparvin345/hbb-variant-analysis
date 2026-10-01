@@ -1,0 +1,4 @@
+variant,cds_position,codon_number,ref,alt,effect,protein_change,protein_identity_pct,alignment_score
+HbS (sickle) c.20A>T,20,7,A,T,missense,p.E7V,99.32,773.0
+HbC c.19G>A,19,7,G,A,missense,p.E7K,99.32,776.0
+HbE c.79G>A,79,27,G,A,missense,p.E27K,99.32,776.0

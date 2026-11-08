@@ -7,7 +7,7 @@ from Bio.Align import PairwiseAligner, substitution_matrices
 from Bio.Seq import MutableSeq, Seq
 from Bio.SeqRecord import SeqRecord
 
-Entrez.email = "sanaparvin345@gmail.com"  # <-- CHANGE THIS (NCBI requires it)
+Entrez.email = "yourname@gmail.com"  # <-- CHANGE THIS (NCBI requires it)
 
 ACCESSION = "NM_000518.5"
 

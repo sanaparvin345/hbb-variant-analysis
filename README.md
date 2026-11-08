@@ -74,7 +74,7 @@ hbb-variant-analysis/
    ```
    python variant_analysis.py
    ```
-   This writes [TODO: name of your output file, e.g. results/variant_results.csv].
+   This writes ["results/variants.csv"].
 4. In RStudio, install ggplot2 once with `install.packages("ggplot2")`, then run `plot_variants.R`. It reads [TODO: input file name] and saves the figure to `results/hbb_variant_map.png`.
 
 ## Tools

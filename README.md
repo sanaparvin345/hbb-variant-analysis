@@ -9,7 +9,7 @@ How do known point mutations in the human beta-globin gene (*HBB*) change the pr
 ## Method
 
 1. Fetched the *HBB* mRNA reference (NM_000518.5) from NCBI using Biopython (`Bio.Entrez`).
-2. Extracted the coding sequence (CDS) and checked that the reference codon at each variant position matched the expected wild-type codon (GAG) before applying the change. [TODO: keep this line only if your script does this check]
+2. Extracted the coding sequence (CDS) and checked that the reference codon at each variant position matched the expected wild-type codon (GAG) before applying the change.
 3. Applied the known variants (HbS, HbC, HbE) to the CDS to create three mutant sequences.
 4. Translated the wild-type and mutant CDS into proteins.
 5. Aligned each mutant protein to the wild-type protein with pairwise global alignment, BLOSUM62 scoring, gap open/extend = [TODO: your values], using `Bio.Align.PairwiseAligner`. [TODO: edit to match your script]
